@@ -1,0 +1,2 @@
+convert文件等前面的配置
+early stopping?

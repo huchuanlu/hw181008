@@ -1,0 +1,3 @@
+
+使用了tensorflow搭建的densenet，不进行预训练准确率不高。
+有改用keras下的resnet50的imagenet预训练版本，model_1.h5文件为最后训练的模型
